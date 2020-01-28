@@ -1,0 +1,163 @@
+*{
+	margin:0;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+}
+
+main{
+	padding:120px;
+}
+
+h1{
+	color:#fff;
+	padding-bottom:5%;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	font-size:180%;
+}
+h2{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 4em;
+	color:#D93AAF;
+	margin-bottom: 4%;
+}
+h3{
+	font-family: 'Abril Fatface', cursive;
+	font-size:180%;
+	padding-bottom: 4%;
+  	justify-content: center;
+  	align-items: center;
+}
+h4{
+	font-family: 'Abril Fatface', cursive;
+	color: #F5A623;
+	margin-bottom:5%;
+	font-size:180%;
+
+}
+
+#foto{
+float:left;	
+width:50%;
+margin-top: 2.5%;
+margin-right: 10%;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+z-index: 5 !important;
+position: relative;
+
+}
+#een{
+	height:100%;
+	margin-bottom: 7%;
+
+}
+
+#tekst{
+
+	float: left;
+	width:30%;
+	background-color: #F5A623;
+	margin-top:0;
+	margin-left:-20%;
+	padding: 15%;
+	z-index: -5 !important;
+	position: relative;
+	color:#fff;
+
+	
+
+}
+
+#twee{
+	
+	width:100%;
+	clear:both;
+	height: 50%;
+	color:black;
+}
+.blok{
+	height:25%;
+	width:24.2%;
+	float: left;
+	text-align: center;
+	position: relative;
+ 	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	padding-top:2%;
+  	padding-bottom:2%;
+  	font-weight: 200;
+  	font-family: 'Raleway', sans-serif;
+  	color:#F5A623;
+  	font-size:110%;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#blok1{
+	margin-right:1%;
+
+
+
+}
+#blok2{
+	margin-right:1%;
+	
+}
+#blok3{
+	margin-right:1%;
+	
+}
+
+#blok4{
+	margin-right:0;
+	
+	vertical-align: middle;
+}
+
+#punten{
+	float:left;
+}
+
+#drie{
+
+	margin-top:5%;
+	margin-bottom: 15%;
+	text-align: center;
+	background-color:#D93AAF;
+	height:50%;
+	width:100%;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	color:#fff;
+  	
+}
+#reflectie{
+	float:left;	
+	width:70%;
+}
+
+
+#vier{
+	margin-top:5%;
+	width:100%;
+	
+}
+
+#tekst-2{
+	width:40%;
+	float:left;
+	line-height: 150%;
+
+}
+
+#foto-2{
+float:right;	
+width:55%;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+z-index: 5 !important;
+position: relative;
+margin-bottom:15%;
+
+}
+
